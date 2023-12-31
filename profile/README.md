@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 * ASP.NET Proyects
 * Web development 
@@ -7,10 +7,9 @@
 
 ## Repost
 * [Agenda Calendario](https://github.com/RulerHub/AgendaCalendario) En desarrollo ...
-* [Gestor de proyectos y producción]() Privado 🔏
-* [Tienda Virtual]() Privado 🔏
-* [Gestor contable]() Privado 🔏
+* [Gestor de procesos productivos OTManager]() Privado 🔏
+* [Ruler Store]() Privado 🔏
+* [RulerHub]() Privado 🔏
 
 ## Social 
 Twitter [Adrian Mesa](https://twitter.com/Adrian_034tw)
-LinkedIn [Adrian Mesa](www.linkedin.com/in/Adrian034)
