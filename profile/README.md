@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* ASP.NET Proyects
+* ASP.NET Core Proyects
 * Web development 
 * Blazor dev
 * Code examples
